@@ -1,0 +1,33 @@
+class ImageAssets {
+  static const String turkeyflag = 'assets/images/turkeyflag.png';
+  static const String italyflag = 'assets/images/Italyflag.png';
+  static const String turkeymap = 'assets/images/turkeymap.jpg';
+  static const String japanflag = 'assets/images/japanflag.png';
+  static const String albaniaflag = 'assets/images/albaniaflag.png';
+  static const String brazilflag = 'assets/images/brazilflag.png';
+  static const String russiaflag = 'assets/images/russiaflag.jpg';
+  static const String lebanonflag = 'assets/images/lebanonflag.png';
+  static const String spainflag = 'assets/images/spainflag.jpg';
+  static const String romaniaflag = 'assets/images/romaniaflag.png';
+  static const String irelandflag = 'assets/images/Irelandflag.png';
+  static const String croatiaflag = 'assets/images/croatiaflag.png';
+  static const String mexicoflag = 'assets/images/mexicoflag.png';
+  static const String syriaflag = 'assets/images/syriaflag.png';
+  static const String chinaflag = 'assets/images/chinaflag.png';
+  static const String germanyflag = 'assets/images/germanyflag.png';
+  static const String greeceflag = 'assets/images/greeceflag.png';
+  static const String czechrepublicflag = 'assets/images/czechrepublicflag.png';
+  static const String taiwanflag = 'assets/images/taiwanflag.png';
+  static const String indonesiaflag = 'assets/images/indonesiaflag.png';
+  static const String polandflag = 'assets/images/polandflag.png';
+  static const String netherlandsflag = 'assets/images/netherlandsflag.png';
+  static const String southKoreaflag = 'assets/images/southKoreaflag.png';
+  static const String northKoreaflag = 'assets/images/northKoreaflag.png';
+  static const String canadaflag = 'assets/images/canadaflag.png';
+  static const String belgiumflag = 'assets/images/belgiumflag.png';
+  static const String palestineflag = 'assets/images/palestineflag.png';
+  static const String italymap = 'assets/images/italymap.jpg';
+  static const String turkeyonmap = 'assets/images/turkeyonmap.png';
+  static const String italyonmap = 'assets/images/italyonmap.png';
+  static const String turkeywallpaper = 'assets/images/turkeywallpaper.jpg';
+}
