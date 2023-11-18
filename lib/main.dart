@@ -1,5 +1,9 @@
+import 'package:country_app/ccscreen.dart';
+import 'package:country_app/new_dynamic_page/new_dynamic_page.dart';
+
 import 'home_screen/home_screen.dart';
 import 'package:flutter/material.dart';
+import 'dynamic_page/dynamic_page.dart';
 
 void main() {
   runApp(const ContryApp());
@@ -17,7 +21,7 @@ class ContryApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
       ),
-      home: const HomeScreen(),
+      home: const NewDynamicPage(),
     );
   }
 }
